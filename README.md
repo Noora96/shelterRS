@@ -1,1 +1,1 @@
-# https://github.com/Noora96/shelterRS/main/pages
+# https://noora96.github.io/shelterRS/pages/main/index.html
